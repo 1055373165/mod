@@ -2,6 +2,6 @@ package mod
 
 import "fmt"
 
-func Hello(name string) {
+func OOO(name string) {
 	fmt.Printf("你好, %s\n", name)
 }
